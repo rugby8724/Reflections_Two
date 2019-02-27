@@ -17,5 +17,9 @@ per logical change?
 What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 
-    Branches would allow us to make experimental or different versions of our 
+    Branches would allow us to make experimental or different versions of our
     projects without affecting the master files
+
+How do the diagrams help you visualize the branch structure?
+
+    Let's us know what is reachable by each branch. 
