@@ -8,3 +8,8 @@ What value do you think it offers?
 
     staging area ready to be committed, however, it is not a commit yet
     It allows you to have a second check before committing files
+
+How can you use the staging area to make sure you have one commit
+per logical change?
+
+    You can compare the staging area to the working directory
