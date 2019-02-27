@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    you add .git to the file and now have to ability to create commits
+
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+    staging area ready to be committed, however, it is not a commit yet
+    It allows you to have a second check before committing files
