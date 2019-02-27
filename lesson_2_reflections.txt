@@ -22,4 +22,10 @@ history organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
-    Let's us know what is reachable by each branch. 
+    Let's us know what is reachable by each branch.
+
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+    Combining commits from both branches.
+    To better represent the commits being combined together.
