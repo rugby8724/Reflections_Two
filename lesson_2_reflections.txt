@@ -29,3 +29,9 @@ it in the diagram the way we do?
 
     Combining commits from both branches.
     To better represent the commits being combined together.
+
+What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually?
+
+    Pro: saves time
+    Con: opportunity to create unexpected bugs
