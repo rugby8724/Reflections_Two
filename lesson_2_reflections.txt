@@ -13,3 +13,9 @@ How can you use the staging area to make sure you have one commit
 per logical change?
 
     You can compare the staging area to the working directory
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+    Branches would allow us to make experimental or different versions of our 
+    projects without affecting the master files
