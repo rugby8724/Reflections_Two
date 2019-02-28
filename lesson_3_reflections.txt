@@ -14,4 +14,10 @@ would you use one instead of another?
     fork: copies code from git hub to your git hub account
     clone: copies code to a local point
     branches: branches are commits that either include or 'branch off' the
-    master code. 
+    master code.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Will be as up-to-date as possible, reducing duplicated work, or other
+    errors
