@@ -7,3 +7,11 @@ automatically stay up-to-date with your remote repository?
 
     Multiple people maybe working on the same file and not want someone's
     changes pulled automatically
+
+Describe the differences between forks, clones, and branches. When
+would you use one instead of another?
+
+    fork: copies code from git hub to your git hub account
+    clone: copies code to a local point
+    branches: branches are commits that either include or 'branch off' the
+    master code. 
